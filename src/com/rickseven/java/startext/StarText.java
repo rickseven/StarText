@@ -40,6 +40,13 @@ class StarText {
                 }
 
                 c++;
+
+                // for typewriter effect
+                try{
+                    Thread.sleep(50);
+                }catch(InterruptedException ex){
+                    Thread.currentThread().interrupt();
+                }
             }
             System.out.println();
         }
