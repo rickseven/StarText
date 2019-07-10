@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1be66097-6f5f-4f8f-8777-2b7760c7625c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rickseven/java/startext/characters/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rickseven/java/startext/characters/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rickseven/java/startext/characters/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rickseven/java/startext/characters/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rickseven/java/startext/characters/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rickseven/java/startext/characters/R.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -433,8 +429,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
