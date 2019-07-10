@@ -8,6 +8,7 @@ Print input text to star (*) character
 # Characters
 Available Characters :
 
+```
   * * * * *      * * * * * *  * * * * * * *  *  * * * * * *
 *           *  *              *              *  *           *
 *           *  *              *              *  *           *
@@ -15,3 +16,4 @@ Available Characters :
 *           *  *              *              *  *       *
 *           *  *              *              *  *         *
 *           *    * * * * * *  * * * * * * *  *  *           *
+```
