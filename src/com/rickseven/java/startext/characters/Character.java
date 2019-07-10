@@ -5,11 +5,21 @@ import java.io.PrintStream;
 
 public abstract class Character {
 
+    protected String character;
+    protected String space;
+    protected ICharacterOption option;
+
+    public Character(ICharacterOption option) {
+        this.option = option;
+        this.character = (this.option.isWithSpace()) ? "* " : "*";
+        this.space = (this.option.isWithSpace()) ? "  " : " ";
+
+    }
+
     public abstract void write();
-    public abstract ICharacterOption option();
 
     public void printChar(int y, int x) {
-        int n = this.option().getSize();
+        int n = (this.option.isWithSpace()) ? this.option.getSize() * 2 : this.option.getSize();
         byte[][] arr = this.to2DArray();
         char ch = (char) arr[y][x];
         System.out.print(ch);
@@ -30,7 +40,7 @@ public abstract class Character {
     }
 
     byte[][] to2DArray() {
-        int n = this.option().getSize();
+        int n = (this.option.isWithSpace()) ? this.option.getSize() * 2 : this.option.getSize();
         byte[] arr = this.toArray();
         int rows = arr.length;
         int cols = arr.length;

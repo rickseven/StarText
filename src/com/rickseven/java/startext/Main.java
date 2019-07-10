@@ -24,6 +24,7 @@ public class Main {
 
         ICharacterOption option = new CharacterOption();
         option.setSize(textSize);
+        option.withSpace(true);
         StarText starText = new StarText(text, option);
         starText.print();
     }

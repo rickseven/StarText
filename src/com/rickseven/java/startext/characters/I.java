@@ -3,10 +3,9 @@ package com.rickseven.java.startext.characters;
 public class I extends Character {
 
     private static I instance = null;
-    private ICharacterOption option;
 
     private I(ICharacterOption option){
-        this.option = option;
+        super(option);
     }
 
     public static I getInstance(ICharacterOption option){
@@ -17,14 +16,14 @@ public class I extends Character {
 
     @Override
     public void printChar(int y, int x) {
-        int n = this.option.getSize();
+        int n = (this.option.isWithSpace()) ? this.option.getSize() * 2 : this.option.getSize();
         byte[][] arr = this.to2DArray();
         char ch = (char) arr[y][x];
-        if(ch == '*'){
+        if(ch != ' '){
             System.out.print(ch);
         }
         if(x == (n-1)){
-            System.out.print(" ");
+            System.out.print(this.space);
         }
     }
 
@@ -36,17 +35,11 @@ public class I extends Character {
             for(int j = 1; j <= n; j++){
 
                 if(j == middleX){
-                    System.out.print("*");
+                    System.out.print(this.character);
                 }else{
-                    System.out.print(" ");
+                    System.out.print(this.space);
                 }
             }
-            //System.out.println();
         }
-    }
-
-    @Override
-    public ICharacterOption option() {
-        return this.option;
     }
 }

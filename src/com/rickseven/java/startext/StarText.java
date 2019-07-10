@@ -7,7 +7,6 @@ class StarText {
     private String text;
     private ICharacterOption option;
 
-
     StarText(String text, ICharacterOption option){
         this.text = text;
         this.option = option;
@@ -20,12 +19,13 @@ class StarText {
         }
 
         int n = this.option.getSize();
-        int lengthX = (n * this.text.length());
+        int charWidth = (this.option.isWithSpace()) ? (n*2) : n;
+        int lengthX = (charWidth * this.text.length());
         for(int i = 0; i < n; i++){
             int c = 0;
             int d = 0;
             for(int j = 0; j < lengthX; j++){
-                if(c == n){
+                if(c == charWidth){
                     c = 0;
                     d++;
                 }
@@ -43,7 +43,7 @@ class StarText {
 
                 // for typewriter effect
                 try{
-                    Thread.sleep(50);
+                    Thread.sleep(7);
                 }catch(InterruptedException ex){
                     Thread.currentThread().interrupt();
                 }
