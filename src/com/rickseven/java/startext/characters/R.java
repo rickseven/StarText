@@ -22,7 +22,11 @@ public class R extends Character{
             for(int j = 1; j <= n; j++){
 
                 if(i == 1 || i == middleY){
-                    System.out.print(this.character);
+                    if(j == n){
+                        System.out.print(this.space);
+                    }else{
+                        System.out.print(this.character);
+                    }
                 }else{
                     if(i < middleY){
                         if(j > 1 && j < n){
