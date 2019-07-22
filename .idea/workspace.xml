@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f06ebf15-9faf-4cab-adad-e1d34f56c702" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/StarText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/CharacterOption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/E.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/F.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/G.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/H.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/ICharacterOption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/J.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/K.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/L.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/M.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/N.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/O.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/P.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/Q.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/S.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/U.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/V.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/W.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/X.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/Y.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/star-text/com/rickseven/java/startext/characters/Z.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/star-text.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -66,6 +25,15 @@
                 <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -163,6 +131,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -198,13 +167,6 @@
     <entry file="file://$PROJECT_DIR$/StarText.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -216,6 +178,13 @@
       </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
       </provider>
     </entry>
   </component>
