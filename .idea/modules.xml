@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/star-text.iml" filepath="$PROJECT_DIR$/star-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StarText.iml" filepath="$PROJECT_DIR$/StarText.iml" />
     </modules>
   </component>
 </project>
