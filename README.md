@@ -1,5 +1,5 @@
-# StarText
-Print input text to star (*) character
+# Description
+This is a console application that is used to print letters to the star character (*).
 
 # Usage
 - Run the console app
